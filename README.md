@@ -1,5 +1,5 @@
 # SocialNetwork
-MERN Stack
-- Node.js > Express
-- React/Redux
-- db >MongoDB
+
+- node.js express
+- mongodb
+- validation with json schema
